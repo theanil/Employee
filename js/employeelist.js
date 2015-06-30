@@ -1,4 +1,4 @@
-var serviceURL = "http://www.euclid-infotech.com/services/";
+var serviceURL = "http://www.k2s2c.in/services/";
 
 var employees;
 
